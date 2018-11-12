@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Don't Give Up`,"http://twitch.tv/Death")
+client.user.setGame(`Don't Give Up`,"https://www.twitch.tv/iGamerSim")
 client.user.setStatus("dnd")
 });
 
